@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93aaa6a9.chunk.css",
+    "main.js": "/static/js/main.733acb27.chunk.js",
+    "main.js.map": "/static/js/main.733acb27.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.ad501400.chunk.js": "/static/js/2.ad501400.chunk.js",
+    "static/js/2.ad501400.chunk.js.map": "/static/js/2.ad501400.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.73c07a6848e7a99a89fa0515276a85b0.js": "/precache-manifest.73c07a6848e7a99a89fa0515276a85b0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.93aaa6a9.chunk.css.map": "/static/css/main.93aaa6a9.chunk.css.map",
+    "static/media/04-A-Crime-On-Your-Hands.m4a": "/static/media/04-A-Crime-On-Your-Hands.e404f13f.m4a",
+    "static/media/Captura de Pantalla 2019-07-15 a la(s) 11.03.21 a. m..png": "/static/media/Captura de Pantalla 2019-07-15 a la(s) 11.03.21 a. m..d21ab857.png",
+    "static/media/cv_mendez_juanfelipe.pdf": "/static/media/cv_mendez_juanfelipe.f2ccb229.pdf",
+    "static/media/megadethmast-1.jpg": "/static/media/megadethmast-1.933500e3.jpg",
+    "static/media/metallicaheavymontreal2017.jpg": "/static/media/metallicaheavymontreal2017.3f6ada77.jpg",
+    "static/media/millos.png": "/static/media/millos.71c4d388.png",
+    "static/media/seleccion.png": "/static/media/seleccion.3246538a.png",
+    "static/media/system-of-a-down1.jpg": "/static/media/system-of-a-down1.9c9f8b85.jpg",
+    "static/media/united.png": "/static/media/united.aaa70615.png"
+  }
+}
