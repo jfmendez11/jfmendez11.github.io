@@ -1,24 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.b36e4ed6.chunk.css",
-    "main.js": "/static/js/main.f5b6d0df.chunk.js",
-    "main.js.map": "/static/js/main.f5b6d0df.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.ad501400.chunk.js": "/static/js/2.ad501400.chunk.js",
-    "static/js/2.ad501400.chunk.js.map": "/static/js/2.ad501400.chunk.js.map",
+    "main.css": "/static/css/main.96971451.chunk.css",
+    "main.js": "/static/js/main.a0503225.chunk.js",
+    "main.js.map": "/static/js/main.a0503225.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fce77ebb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fce77ebb.js.map",
+    "static/js/2.58355e0b.chunk.js": "/static/js/2.58355e0b.chunk.js",
+    "static/js/2.58355e0b.chunk.js.map": "/static/js/2.58355e0b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.67718955ea5145aa095b94f83e2461dc.js": "/precache-manifest.67718955ea5145aa095b94f83e2461dc.js",
+    "precache-manifest.349cbaf89a103dd38a75f865ae4acaa0.js": "/precache-manifest.349cbaf89a103dd38a75f865ae4acaa0.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b36e4ed6.chunk.css.map": "/static/css/main.b36e4ed6.chunk.css.map",
+    "static/css/main.96971451.chunk.css.map": "/static/css/main.96971451.chunk.css.map",
+    "static/js/2.58355e0b.chunk.js.LICENSE.txt": "/static/js/2.58355e0b.chunk.js.LICENSE.txt",
     "static/media/04-A-Crime-On-Your-Hands.m4a": "/static/media/04-A-Crime-On-Your-Hands.e404f13f.m4a",
-    "static/media/Captura de Pantalla 2019-07-15 a la(s) 11.03.21 a. m..png": "/static/media/Captura de Pantalla 2019-07-15 a la(s) 11.03.21 a. m..d21ab857.png",
-    "static/media/cv_mendez_juanfelipe.pdf": "/static/media/cv_mendez_juanfelipe.f2ccb229.pdf",
+    "static/media/Resume_JFM_EN.pdf": "/static/media/Resume_JFM_EN.49a1d5d4.pdf",
+    "static/media/Resume_JFM_ES.pdf": "/static/media/Resume_JFM_ES.a34f957f.pdf",
+    "static/media/jfm_at_psg.jpeg": "/static/media/jfm_at_psg.caf55245.jpeg",
     "static/media/megadethmast-1.jpg": "/static/media/megadethmast-1.933500e3.jpg",
     "static/media/metallicaheavymontreal2017.jpg": "/static/media/metallicaheavymontreal2017.3f6ada77.jpg",
     "static/media/millos.png": "/static/media/millos.71c4d388.png",
     "static/media/seleccion.png": "/static/media/seleccion.3246538a.png",
     "static/media/system-of-a-down1.jpg": "/static/media/system-of-a-down1.9c9f8b85.jpg",
     "static/media/united.png": "/static/media/united.aaa70615.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fce77ebb.js",
+    "static/js/2.58355e0b.chunk.js",
+    "static/css/main.96971451.chunk.css",
+    "static/js/main.a0503225.chunk.js"
+  ]
 }
